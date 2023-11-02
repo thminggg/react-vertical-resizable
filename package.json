@@ -1,0 +1,30 @@
+{
+  "name": "react-vertical-resizable",
+  "version": "1.0.0",
+  "description": "A react component that can be resized vertically",
+  "main": "dist/index.js",
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "author": "Patrick T",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.2",
+    "@babel/preset-react": "^7.22.15",
+    "@babel/preset-typescript": "^7.23.2",
+    "@testing-library/react": "^14.0.0",
+    "@types/jest": "^29.5.7",
+    "@types/react": "^18.2.34",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "typescript": "^5.2.2"
+  }
+}
