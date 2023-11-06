@@ -1,3 +1,7 @@
+## React Vertical Resizable
+
+A react component holds any child component with a handlebar to resize itself vertically
+
 ## Get Started
 
 ### Install package
